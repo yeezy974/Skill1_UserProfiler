@@ -1,0 +1,32 @@
+{
+  "user_id": "UNIQUE_ID_001",
+  "basic_info": {
+    "name": "张三",
+    "phone": "13800000000",
+    "email": "zhangsan@example.com",
+    "location": "城市",
+    "edu_background": {
+        "school": "某某大学",
+        "major": "某某专业",
+        "degree": "本科/硕士/博士"
+    }
+  },
+  "skill_set": {
+    "software": ["软件1", "软件2"],
+    "coding": ["语言1", "语言2"],
+    "soft_skills": ["沟通", "逻辑"]
+  },
+  "experience": [
+    {
+      "type": "实习/项目",
+      "org": "某某公司/实验室",
+      "role": "岗位名称",
+      "description": "具体做了什么工作，取得了什么成果"
+    }
+  ],
+  "job_preference": {
+    "intent_role": "首选岗位意愿",
+    "secondary_roles": ["备选岗位1", "备选岗位2"],
+    "priority": "意愿优先/匹配度优先"
+  }
+}

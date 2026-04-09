@@ -1,0 +1,8 @@
+{
+  "core_white_list": [
+    {"name": "拼多多", "url": "https://careers.pinduoduo.com/"},
+    {"name": "字节跳动", "url": "https://jobs.bytedance.com/"},
+    {"name": "美团", "url": "https://zhaopin.meituan.com/"},
+    {"name": "腾讯", "url": "https://join.qq.com/"}
+  ]
+}
